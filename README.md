@@ -31,7 +31,7 @@ This is my **"Project HQ"** — the base for all the things I'm building and wil
 - Frontend development (React, JavaScript, CSS Art)
 - Backend adventures (Node.js, MongoDB, APIs, auth)
 - Full-stack experiments
-- Clean UI + Functional Logic = Chef’s Kiss 💋
+- Clean code + chaotic learning = unstoppable progress 🧠🔥
 
 ---
 
